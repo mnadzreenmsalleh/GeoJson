@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 581,
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [[[103.59377744500006, 7.3043695360000243], [103.57715271400008, 7.2958059400000366], [103.56987204200004, 7.2116374230000702], [103.62674086500004, 7.1347463790000347], [103.81792087900004, 7.0001984270000435], [103.90809043700006, 7.0067357790000528], [103.94634014100006, 7.0095037730000627], [103.86491731800004, 7.0495282920000477], [103.59377744500006, 7.3043695360000243]]]
+          ]
+        },
+        "properties": {
+          "OBJECTID": 581,
+          "UPI": "MYS20120420PM302",
+          "BLK_ID": "BLK100007",
+          "BLK_NAME": "PM302",
+          "PSC_NAME": "BLOCK PM302 PSC",
+          "COUNTRY_NAME": "MALAYSIA",
+          "REGION": "PM",
+          "BASIN_TYPE": "PSC Mature",
+          "BASIN_NAME": "MALAY BASIN",
+          "TYPE_OF_DEPTH": "Shallow Water",
+          "LOCATION": "Offshore",
+          "SYMBOLOGY_ID": 102,
+          "SYMBOLOGY_CODE": "PIRI301002",
+          "TYPE_OF_OPERATOR": "OBO",
+          "PSC_STATUS": "Current",
+          "PSC_TYPE": "R/C",
+          "PSC_PHASE": "D,P - Development, Production",
+          "PSC_OPERATOR_ACRONYM": "HESS",
+          "PSC_OPERATOR_FULL_NAME": "HESS EXPLORATION AND PRODUCTION MALAYSIA B.V.",
+          "PSC_OPERATOR_PARENT": "HESS",
+          "PSC_PARTNERSHIP_EQUITY": "HESS 50%, PCSB 50%",
+          "PSC_AWARD_DATE": 872553600000,
+          "PSC_EFFECT_DATE": 813456000000,
+          "PSC_EXPIRY_DATE": 2012688000000,
+          "PSC_EX_PHASE_EXPIRY_DATE": 1608336000000,
+          "PSC_DEV_PHASE_EXPIRY_DATE": null,
+          "PSC_PROD_PHASE_EXPIRY_DATE": null,
+          "AWARDED_ACRE_SQKM": 1166.441,
+          "CURRENT_ACRE_SQKM": 1166.441,
+          "MIN_WATER_DEPTH_M": -40,
+          "MAX_WATER_DEPTH_M": -60,
+          "PSC_INCLU_FIELD": "Bergading, Bunga Anggerik, Bunga Dahlia-Bunga Teratai, Bunga Kesumba, Bunga Melati, Bunga Zetung, Gajah, Bunga Kangsar (straddle to PM302)",
+          "PSC_EXCLU_FIELD": null,
+          "DATA_SOURCE": "MPM/RDM",
+          "QC_STATUS": "QC GOOD",
+          "CONFIDENCE_LEVEL": "TRUE",
+          "REMARK": "Exploration area has been relinquished and the development areas are maintained. As of 10/10/2024, the exploration period has been extended to 3 years for newly annexed open areas.",
+          "CREATED_DATE": 1611132949000,
+          "CREATED_BY": "SITIANAMARIA.SALIHU",
+          "UPDATED_DATE": 1728293700000,
+          "UPDATED_BY": "AHMADZULFADLI.MSALLE",
+          "Shape.STArea()": 0.095467852111556104,
+          "Shape.STLength()": 3.3379158926662149
+        }
+      }
+    ]
+  }
+  
