@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 548,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.25381681500005,
+                            7.068931568000039
+                        ],
+                        [
+                            103.27146338700004,
+                            7.068904405000069
+                        ],
+                        [
+                            103.28824661800007,
+                            7.102864169000043
+                        ],
+                        [
+                            103.30375172900006,
+                            7.123805728000036
+                        ],
+                        [
+                            103.30896453200006,
+                            7.157648237000046
+                        ],
+                        [
+                            103.22473796900005,
+                            7.114258929000073
+                        ],
+                        [
+                            103.22672693300007,
+                            7.098298731000057
+                        ],
+                        [
+                            103.22736667600009,
+                            7.068972298000062
+                        ],
+                        [
+                            103.22959472100007,
+                            7.06896886800007
+                        ],
+                        [
+                            103.25113865500003,
+                            7.068935698000075
+                        ],
+                        [
+                            103.25381681500005,
+                            7.068931568000039
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "OBJECTID": 548,
+                "UPI": "MYS19970826PM301\r\n",
+                "BLK_ID": "BLK100006",
+                "BLK_NAME": "PM301",
+                "PSC_NAME": "BLOCK PM301 PSC",
+                "COUNTRY_NAME": "MALAYSIA",
+                "REGION": "PM",
+                "BASIN_TYPE": "PSC Mature",
+                "BASIN_NAME": "MALAY BASIN",
+                "TYPE_OF_DEPTH": "Shallow Water",
+                "LOCATION": "Offshore",
+                "SYMBOLOGY_ID": 102,
+                "SYMBOLOGY_CODE": "PIRI301002",
+                "TYPE_OF_OPERATOR": "OBO",
+                "PSC_STATUS": "Current",
+                "PSC_TYPE": "R/C",
+                "PSC_PHASE": "D,P - Development, Production",
+                "PSC_OPERATOR_ACRONYM": "HESS",
+                "PSC_OPERATOR_FULL_NAME": "HESS EXPLORATION AND PRODUCTION MALAYSIA B.V.",
+                "PSC_OPERATOR_PARENT": "HESS",
+                "PSC_PARTNERSHIP_EQUITY": "HESS 50%, PCSB 50% ",
+                "PSC_AWARD_DATE": 872553600000,
+                "PSC_EFFECT_DATE": 813456000000,
+                "PSC_EXPIRY_DATE": 1846108800000,
+                "PSC_EX_PHASE_EXPIRY_DATE": 1160524800000,
+                "PSC_DEV_PHASE_EXPIRY_DATE": null,
+                "PSC_PROD_PHASE_EXPIRY_DATE": null,
+                "AWARDED_ACRE_SQKM": 51.47984205,
+                "CURRENT_ACRE_SQKM": 51.47984205,
+                "MIN_WATER_DEPTH_M": -50,
+                "MAX_WATER_DEPTH_M": -50,
+                "PSC_INCLU_FIELD": "Bumi South",
+                "PSC_EXCLU_FIELD": "*PM301 Deeper Horizon (Bumi Deep)",
+                "DATA_SOURCE": "MPM/REX",
+                "QC_STATUS": "QC GOOD",
+                "CONFIDENCE_LEVEL": "TRUE",
+                "REMARK": "*PM301 Deeper Horizon (Bumi Deep) Included Field for PSC PM302",
+                "CREATED_DATE": 1449212898000,
+                "CREATED_BY": "RAMADHAN.NAZHAR",
+                "UPDATED_DATE": 1668527394000,
+                "UPDATED_BY": "SITIANAMARIA.SALIHU",
+                "Shape.STArea()": 0.004213789694496194,
+                "Shape.STLength()": 0.2824385842067116
+            }
+        }
+    ]
+}
